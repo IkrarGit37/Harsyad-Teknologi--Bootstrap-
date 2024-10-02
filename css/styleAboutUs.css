@@ -233,6 +233,11 @@ a {
   color: #ff204e;
 }
 
+.custom-navbar .custom-nav .active {
+  font-weight: bold;
+  color: #ff204e;
+}
+
 .custom-navbar .btn-container {
   display: none;
 }

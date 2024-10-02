@@ -30,6 +30,10 @@
         }
       }
     }
+    .active {
+      font-weight: bold;
+      color: $primary;
+    }
   }
   .btn-container {
     display: none;
