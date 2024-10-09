@@ -54,6 +54,13 @@ a {
       background-color: $pri2;
     }
   }
+  &.btn-secondary{
+    background-color: $primary;
+    color: $white;
+    &:hover {
+      background-color: #333;
+    }
+  }
 }
 
 .contact {

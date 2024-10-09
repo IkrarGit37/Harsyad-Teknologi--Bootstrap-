@@ -32,7 +32,9 @@
     }
     .active {
       font-weight: bold;
-      color: $primary;
+      a {
+        color: $primary;
+      }
     }
   }
   .btn-container {
